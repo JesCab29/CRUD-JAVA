@@ -1,7 +1,6 @@
 package crudbbdd;
 import java.sql.*;
 import java.util.Scanner;
-import 
 
 public class DesarrolloAplicacion {
 
