@@ -11,7 +11,7 @@ public class DesarrolloAplicacion {
     3. Eliminar departamento
     4. Listar departamentos añadir que se guard el resultado en un fichero.
     */
-    public static void main(String[] args) {
+    public static void menu() {
 
         String nombre_dept;
         int localidad;
